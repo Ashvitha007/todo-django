@@ -1,10 +1,10 @@
-# ✅ Todo App – Django
+Todo App – Django
 
 A simple and clean **Todo List Web Application** built with **Python** and **Django**. Create, manage, and track your daily tasks with ease.
 
 ---
 
-## 🚀 Features
+Features
 
 - Add new tasks
 - View all tasks in a list
@@ -14,7 +14,7 @@ A simple and clean **Todo List Web Application** built with **Python** and **Dja
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -25,7 +25,7 @@ A simple and clean **Todo List Web Application** built with **Python** and **Dja
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```
 todo-django/
@@ -40,16 +40,16 @@ todo-django/
 
 ---
 
-## ⚙️ Installation & Setup
+ Installation & Setup
 
-### 1. Clone the repository
+ 1. Clone the repository
 
 ```bash
 git clone https://github.com/Ashvitha007/todo-django.git
 cd todo-django
 ```
 
-### 2. Create a virtual environment
+2. Create a virtual environment
 
 ```bash
 python -m venv venv
@@ -57,19 +57,19 @@ source venv/bin/activate        # macOS/Linux
 venv\Scripts\activate           # Windows
 ```
 
-### 3. Install dependencies
+ 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run database migrations
+ 4. Run database migrations
 
 ```bash
 python manage.py migrate
 ```
 
-### 5. Start the development server
+ 5. Start the development server
 
 ```bash
 python manage.py runserver
@@ -81,24 +81,16 @@ python manage.py runserver
 http://127.0.0.1:8000/
 ```
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your app here)*
-
----
-
-## 🤝 Contributing
+Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
 
-## 📄 License
+ License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
 
 ---
 
-> Made with ❤️ by [Ashvitha007](https://github.com/Ashvitha007)
+Made with [Ashvitha007](https://github.com/Ashvitha007)
